@@ -1,0 +1,23 @@
+http://vimeo.com/17118008
+Mastering Git Basics
+Tom Preston-Werner
+2010
+ * 05:40 creating working directory
+ * 07:00 only one directory (.git) for whole directory (many .svn in contrast)
+ * 07:35 index
+ * 08:45 git add
+ * 09:35 staging is copying into index, not only referencing, linking
+ * 10:31 git status
+ * 10:28 git commit
+ * 10:29 commit is a snapshot taken from the index, and NOT the working directory
+ * 12:32 git log
+ * 14:42 git diff
+ * 14:55 git diff is showing difference between index and working directory
+ * 15:21 git add -p (-p is interactive)
+ * 17:03 git diff --staged (difference between index and last commit)
+ * 20:40 every commit has a parent
+ * 20:52 git stores history as graph of commits
+ * 21:08 Branching and Merging
+ * 21:19 git branch
+ * 21:43 The default branch is named master
+ * 21:15 Branches are just pointers to commits

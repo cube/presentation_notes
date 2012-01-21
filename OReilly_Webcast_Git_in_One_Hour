@@ -1,0 +1,12 @@
+http://www.youtube.com/watch?v=OFkgSjRnay4
+O'Reilly Webcast: Git in One Hour
+Scott Shacon
+20.07.2009
+ * 02:46 git config --list
+ * 03:00 git config --global user.name "User Name"
+ * 03:08 git config --global user.email "user@mail.com"
+ * 03:38 global config stored in ~/.gitconfig
+ * 04:00 git config --global color.ui true
+ * 05:12 git clone
+ * 06:17 creating git repository
+ * 06:37 git init

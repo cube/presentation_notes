@@ -1,0 +1,10 @@
+http://www.youtube.com/watch?v=ZDR433b0HJY
+Introduction to Git
+Scott Schacon
+15.06.2011
+ * 02:22 http://gitref.org
+ * 05:35 central server
+ * 06:18 distributed server & cloning
+ * 07:15 changing one of the nodes into central server (in case if central srv goes away)
+ * 10:18 uses it's own propriatery database
+ * 12:15 snapshots, not paches

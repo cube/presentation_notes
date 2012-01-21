@@ -1,0 +1,15 @@
+http://blip.tv/scott-chacon/git-tips-4232122
+Git Wrangling: Advanced Tips and Tricks
+Scott Schacon
+06.11.2010
+ * 02:00 git-tips.heroku.com
+ * 02:02 Debugging
+ * 02:06 git blame
+ * 02:35 git blame -C ; follows code copies, tracks changes even if moved from different file
+ * 03:38 Bisecting
+ * 05:11 Environment Variables
+ * 05:48 GIT_DIR
+ * 06:11 git log --git-dir=/some/path/to.dot.git
+ * 06:20 GIT_DIR=/some/path/to.dot.git git log
+ * 06:36 GIT_INDEX_FILE
+ * 6:40 you can have MULTIPLE staging areas

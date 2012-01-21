@@ -1,0 +1,11 @@
+http://blip.tv/scott-chacon/git-talk-4113729
+Git talk?
+Scott Schacon
+07.09.2010
+ * 48:15 popular workflows
+ * 48:16 central repository model (like svn)
+ * 49:04 dictator and lieutenants model (linux kernel)
+ * 50:08 integration manager model (like github)
+ * 51:05 How Do I Deploy with Git?
+ * 51:10 capistrano + git
+ * 53:00 ruby + git

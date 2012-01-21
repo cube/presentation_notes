@@ -1,0 +1,10 @@
+http://vimeo.com/12224199
+How Git Changed My Workflow and Other Miscellaneous Tidbits
+Matt Polito
+2010?
+ * 07:26 git branch --merged (which branches were merged into current branch?)
+ * 10:28 git log --pretty=online
+ * 11:10 git log --author=some_part_of_username_string
+ * 11:31 git log --grep=part_of_MESSAGE_only
+ * 12:27 git log -N, where N = number of commits to go back, i.e. git log -4
+ * 12:40 git filter-branch
